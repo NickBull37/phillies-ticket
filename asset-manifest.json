@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/philies-ticket/static/css/main.3fed310a.css",
-    "main.js": "/philies-ticket/static/js/main.930b3961.js",
-    "static/media/gram.JPG": "/philies-ticket/static/media/gram.d0b891ecd1abced75dae.JPG",
-    "static/media/VolkornSemibold.ttf": "/philies-ticket/static/media/VolkornSemibold.ec28f5292ee56ad30d3d.ttf",
-    "static/media/Volkorn.ttf": "/philies-ticket/static/media/Volkorn.3bf5e217816e7cb5efc4.ttf",
-    "static/media/Ananda.ttf": "/philies-ticket/static/media/Ananda.eb04dce4c2b321e2ef0a.ttf",
-    "static/media/phillies-logo.png": "/philies-ticket/static/media/phillies-logo.5c1a890d12529e1a7dd1.png",
-    "static/media/Kepo.ttf": "/philies-ticket/static/media/Kepo.6a7e9ac1cec53217ea4a.ttf",
-    "static/media/Swansea.ttf": "/philies-ticket/static/media/Swansea.4a153a94d50ddf3a3fcb.ttf",
-    "static/media/SwanseaBold.ttf": "/philies-ticket/static/media/SwanseaBold.7659c8214457978cd35f.ttf",
-    "static/media/Quelque.ttf": "/philies-ticket/static/media/Quelque.7295a67afc01ab4a31be.ttf",
-    "static/media/barcode.jpg": "/philies-ticket/static/media/barcode.af9a234745c601609744.jpg",
-    "static/media/stadium-two.jpg": "/philies-ticket/static/media/stadium-two.07f3f83df906baa39310.jpg",
-    "static/media/stadium-one.jpg": "/philies-ticket/static/media/stadium-one.2dd6edb50b95efa9f5ce.jpg",
-    "static/media/TheSignature.ttf": "/philies-ticket/static/media/TheSignature.57d1b8bdb828ed798354.ttf",
-    "static/media/phillies-text.png": "/philies-ticket/static/media/phillies-text.03535721a06a7d4b9fa3.png",
-    "static/media/Athletic.ttf": "/philies-ticket/static/media/Athletic.ca551761e0fc61dbe478.ttf",
-    "index.html": "/philies-ticket/index.html",
-    "main.3fed310a.css.map": "/philies-ticket/static/css/main.3fed310a.css.map",
-    "main.930b3961.js.map": "/philies-ticket/static/js/main.930b3961.js.map"
+    "main.css": "/phillies-ticket/static/css/main.be96c4e2.css",
+    "main.js": "/phillies-ticket/static/js/main.fe8f6b42.js",
+    "static/media/gram.JPG": "/phillies-ticket/static/media/gram.d0b891ecd1abced75dae.JPG",
+    "static/media/VolkornSemibold.ttf": "/phillies-ticket/static/media/VolkornSemibold.ec28f5292ee56ad30d3d.ttf",
+    "static/media/Volkorn.ttf": "/phillies-ticket/static/media/Volkorn.3bf5e217816e7cb5efc4.ttf",
+    "static/media/Ananda.ttf": "/phillies-ticket/static/media/Ananda.eb04dce4c2b321e2ef0a.ttf",
+    "static/media/phillies-logo.png": "/phillies-ticket/static/media/phillies-logo.5c1a890d12529e1a7dd1.png",
+    "static/media/Kepo.ttf": "/phillies-ticket/static/media/Kepo.6a7e9ac1cec53217ea4a.ttf",
+    "static/media/Swansea.ttf": "/phillies-ticket/static/media/Swansea.4a153a94d50ddf3a3fcb.ttf",
+    "static/media/SwanseaBold.ttf": "/phillies-ticket/static/media/SwanseaBold.7659c8214457978cd35f.ttf",
+    "static/media/Quelque.ttf": "/phillies-ticket/static/media/Quelque.7295a67afc01ab4a31be.ttf",
+    "static/media/barcode.jpg": "/phillies-ticket/static/media/barcode.af9a234745c601609744.jpg",
+    "static/media/stadium-two.jpg": "/phillies-ticket/static/media/stadium-two.07f3f83df906baa39310.jpg",
+    "static/media/stadium-one.jpg": "/phillies-ticket/static/media/stadium-one.2dd6edb50b95efa9f5ce.jpg",
+    "static/media/TheSignature.ttf": "/phillies-ticket/static/media/TheSignature.57d1b8bdb828ed798354.ttf",
+    "static/media/phillies-text.png": "/phillies-ticket/static/media/phillies-text.03535721a06a7d4b9fa3.png",
+    "static/media/Athletic.ttf": "/phillies-ticket/static/media/Athletic.ca551761e0fc61dbe478.ttf",
+    "index.html": "/phillies-ticket/index.html",
+    "main.be96c4e2.css.map": "/phillies-ticket/static/css/main.be96c4e2.css.map",
+    "main.fe8f6b42.js.map": "/phillies-ticket/static/js/main.fe8f6b42.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fed310a.css",
-    "static/js/main.930b3961.js"
+    "static/css/main.be96c4e2.css",
+    "static/js/main.fe8f6b42.js"
   ]
 }
