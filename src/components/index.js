@@ -1,0 +1,1 @@
+export { default as PhilliesTicket } from './pages/PhilliesTicket';
