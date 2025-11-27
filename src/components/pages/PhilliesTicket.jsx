@@ -32,7 +32,7 @@ const QuelqueText = styled(Typography)(() => ({
     fontSize: '1.65rem',
     color: '#E81828',
     fontSize: '1.875rem',
-    lineHeight: 1.125,
+    lineHeight: 1,
     textAlign: 'center',
     marginTop: '4px'
 }));
@@ -44,20 +44,16 @@ const SwanseaText = styled(Typography)(() => ({
     fontSize: '1.875rem',
     lineHeight: 1.14,
     textAlign: 'center',
-    marginTop: '2px',
-    marginBottom: '2px',
     fontWeight: '600'
 }));
 
-const AnandaNameText = styled(Typography)(() => ({
+const AnandaNameText = styled(Typography)(({ theme }) => ({
     fontFamily: 'Ananda',
     fontSize: '1.65rem',
     color: '#E81828',
     fontSize: '1.5rem',
     lineHeight: 1.4,
     textAlign: 'center',
-    marginTop: '2px',
-    marginBottom: '2px',
 }));
 
 const RedStack = styled(Stack)(() => ({
@@ -174,7 +170,8 @@ const PhilliesTicket = () => {
                             width: '100%',
                             borderTop: '3px solid #E81828',
                             borderBottom: '3px solid #E81828',
-                            background: 'rgba(255, 255, 255, 0.65)'
+                            background: 'rgba(255, 255, 255, 0.65)',
+                            padding: '2px 0',
                         }}
                     >
                         <QuelqueText>
@@ -299,7 +296,8 @@ const PhilliesTicket = () => {
                             width: '100%',
                             borderTop: '3px solid #E81828',
                             borderBottom: '3px solid #E81828',
-                            background: 'rgba(255, 255, 255, 0.65)'
+                            background: 'rgba(255, 255, 255, 0.65)',
+                            padding: '1px 0',
                         }}
                     >
                         <SwanseaText>
@@ -425,7 +423,8 @@ const PhilliesTicket = () => {
                             width: '100%',
                             borderTop: '3px solid #E81828',
                             borderBottom: '3px solid #E81828',
-                            background: 'rgba(255, 255, 255, 0.65)'
+                            background: 'rgba(255, 255, 255, 0.65)',
+                            padding: '4px 0 1px 0',
                         }}
                     >
                         <AnandaNameText>
