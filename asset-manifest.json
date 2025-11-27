@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/phillies-ticket/static/css/main.be96c4e2.css",
-    "main.js": "/phillies-ticket/static/js/main.fe8f6b42.js",
+    "main.js": "/phillies-ticket/static/js/main.dd64ad46.js",
     "static/media/gram.JPG": "/phillies-ticket/static/media/gram.d0b891ecd1abced75dae.JPG",
     "static/media/VolkornSemibold.ttf": "/phillies-ticket/static/media/VolkornSemibold.ec28f5292ee56ad30d3d.ttf",
     "static/media/Volkorn.ttf": "/phillies-ticket/static/media/Volkorn.3bf5e217816e7cb5efc4.ttf",
     "static/media/Ananda.ttf": "/phillies-ticket/static/media/Ananda.eb04dce4c2b321e2ef0a.ttf",
-    "static/media/phillies-logo.png": "/phillies-ticket/static/media/phillies-logo.5c1a890d12529e1a7dd1.png",
+    "static/media/phillies-logo.png": "/phillies-ticket/static/media/phillies-logo.f628ead9d37e85d1a814.png",
     "static/media/Kepo.ttf": "/phillies-ticket/static/media/Kepo.6a7e9ac1cec53217ea4a.ttf",
     "static/media/Swansea.ttf": "/phillies-ticket/static/media/Swansea.4a153a94d50ddf3a3fcb.ttf",
     "static/media/SwanseaBold.ttf": "/phillies-ticket/static/media/SwanseaBold.7659c8214457978cd35f.ttf",
@@ -19,10 +19,10 @@
     "static/media/Athletic.ttf": "/phillies-ticket/static/media/Athletic.ca551761e0fc61dbe478.ttf",
     "index.html": "/phillies-ticket/index.html",
     "main.be96c4e2.css.map": "/phillies-ticket/static/css/main.be96c4e2.css.map",
-    "main.fe8f6b42.js.map": "/phillies-ticket/static/js/main.fe8f6b42.js.map"
+    "main.dd64ad46.js.map": "/phillies-ticket/static/js/main.dd64ad46.js.map"
   },
   "entrypoints": [
     "static/css/main.be96c4e2.css",
-    "static/js/main.fe8f6b42.js"
+    "static/js/main.dd64ad46.js"
   ]
 }
