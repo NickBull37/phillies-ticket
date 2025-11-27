@@ -36,21 +36,23 @@ const SwanseaText = styled(Typography)(() => ({
     fontFamily: 'Swansea',
     fontSize: '1.65rem',
     color: '#E81828',
-    fontSize: '2rem',
-    lineHeight: 1.125,
+    fontSize: '1.875rem',
+    lineHeight: 1.14,
     textAlign: 'center',
-    marginTop: '2px'
+    marginTop: '2px',
+    marginBottom: '2px',
+    fontWeight: '600'
 }));
 
 const SwanseaBoldText = styled(Typography)(() => ({
     fontFamily: 'SwanseaBold',
     fontSize: '1.65rem',
     color: '#E81828',
-    fontSize: '2rem',
+    fontSize: '1.875rem',
     lineHeight: 1.125,
     textAlign: 'center',
-    marginTop: '2px',
-    marginBottom: '2px',
+    marginTop: '3px',
+    marginBottom: '3px',
 }));
 
 const RedStack = styled(Stack)(() => ({
@@ -318,136 +320,6 @@ const PhilliesTicket = () => {
                     </RedStack>
                 </Box>
             </Stack>
-
-
-
-
-
-{/* FRONT */}
-            <Stack
-                sx={{
-                    height: '700px',
-                    width: '200px',
-                    display: 'flex',
-                    justifyContent: 'space-between',
-                }}
-            >
-
-                <Box
-                    sx={{
-                        minHeight: '100px',
-                        display: 'flex',
-                        justifyContent: 'space-around',
-                        alignItems: 'center'
-                    }}
-                >
-                    <RedStack>
-                        <AthleticText>SEC</AthleticText>
-                        <AthleticText>08</AthleticText>
-                    </RedStack>
-                    <WhiteStack>
-                        <AthleticText>ROW</AthleticText>
-                        <AthleticText>02</AthleticText>
-                    </WhiteStack>
-                    <RedStack>
-                        <AthleticText>SEC</AthleticText>
-                        <AthleticText>33</AthleticText>
-                    </RedStack>
-                </Box>
-
-                <Stack
-                    sx={{
-                        height: '100%',
-                        backgroundImage: `url(${stadiumOne})`,
-                        backgroundSize: 'cover',
-                        backgroundPosition: 'center',
-                        backgroundRepeat: 'no-repeat',
-                        display: 'flex',
-                        justifyContent: 'space-between',
-                        alignItems: 'center',
-                        padding: '12px 0 20px 0',
-                    }}
-                >
-                    <AthleticText
-                        sx={{
-                            width: '100%',
-                            fontSize: '0.875rem',
-                            textAlign: 'center',
-                            color: '#E81828',
-                            background: 'rgba(255, 255, 255, 0.75)'
-                        }}
-                    >
-                        CELEBRATING THE LIFE OF
-                    </AthleticText>
-
-                    <Box
-                        sx={{
-                            height: '270px',
-                            width: '150px',
-                            border: '6px solid #fff',
-                            backgroundImage: `url(${gram})`,
-                            backgroundSize: 'cover',
-                            backgroundPosition: 'center',
-                            backgroundRepeat: 'no-repeat',
-                            boxShadow: '12px 12px 18px rgba(0, 0, 0, 0.75)'
-                        }}
-                    >
-                    </Box>
-
-                    <Box
-                        sx={{
-                            height: '70px',
-                            width: '185px',
-                            backgroundImage: `url(${philliesText})`,
-                            backgroundSize: 'cover',
-                            backgroundPosition: 'center',
-                            backgroundRepeat: 'no-repeat',
-                            marginTop: '-85px'
-                        }}
-                    >
-                    </Box>
-
-                    <Box
-                        sx={{
-                            borderTop: '3px solid #E81828',
-                            borderBottom: '3px solid #E81828',
-                            background: 'rgba(255, 255, 255, 0.65)'
-                        }}
-                    >
-                        <SwanseaBoldText>
-                            Joan Van Horn
-                        </SwanseaBoldText>
-                    </Box>
-                </Stack>
-
-                <Box
-                    sx={{
-                        minHeight: '100px',
-                        display: 'flex',
-                        justifyContent: 'space-around',
-                        alignItems: 'center'
-                    }}
-                >
-                    <RedStack>
-                        <AthleticText>SEC</AthleticText>
-                        <AthleticText>11</AthleticText>
-                    </RedStack>
-                    <WhiteStack>
-                        <AthleticText>ROW</AthleticText>
-                        <AthleticText>21</AthleticText>
-                    </WhiteStack>
-                    <RedStack>
-                        <AthleticText>SEC</AthleticText>
-                        <AthleticText>25</AthleticText>
-                    </RedStack>
-                </Box>
-            </Stack>
-
-
-
-
-
-
 
 
             {/* BACK */}
